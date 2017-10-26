@@ -8,6 +8,8 @@
   "preferGlobal": "true",
   "main": "index.js",
   "dependencies": {
+    "get-first-commit": "^0.2.0",
+    "moment": "^2.18.1",
     "node-fetch": "^1.6.3",
     "sget": "^0.1.5"
   },
